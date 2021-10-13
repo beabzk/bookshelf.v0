@@ -2,6 +2,8 @@ body {
     justify-content: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color:darkgrey;
+    background-image: url("https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=jaredd-craig-HH4WBGNyltc-unsplash.jpg");
+    background-repeat: no-repeat, repeat;
 }
 #top-head {
     text-align: center;
